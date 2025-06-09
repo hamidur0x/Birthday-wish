@@ -1,6 +1,6 @@
-#🎉🎂 Birthday-wish
+# 🎂 Birthday-wish
 
-##🚀 How to Run
+## 🚀 How to Run
 
 1. Download or clone the repository.  
 2. Make sure all the files are in the same directory as in the repository.  

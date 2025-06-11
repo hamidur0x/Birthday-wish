@@ -1,6 +1,12 @@
 # 🎂 Birthday-wish
 
 ## 🚀 How to Run
+```bash
+git clone https://github.com/hamidur0x/Birthday-wish.git
+```
+```bash
+cd Birthday-wish
+```
 
 1. Download or clone the repository.  
 2. Make sure all the files are in the same directory as in the repository.  
